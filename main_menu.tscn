@@ -1,7 +1,7 @@
-[gd_scene load_steps=11 format=3 uid="uid://cs3eunl2b8cam"]
+[gd_scene load_steps=11 format=3 uid="uid://cb2ghg6488ip"]
 
-[ext_resource type="Script" uid="uid://vk0mi76nnb1f" path="res://main_menu.gd" id="1_06t4h"]
-[ext_resource type="Shader" uid="uid://biao613he0htl" path="res://scroll.gdshader" id="2_dy7ct"]
+[ext_resource type="Script" path="res://main_menu.gd" id="1_06t4h"]
+[ext_resource type="Shader" path="res://scroll.gdshader" id="2_dy7ct"]
 [ext_resource type="Texture2D" uid="uid://c6a720i8l5y34" path="res://Buttons normal/Start_button_normal.png" id="2_qe12f"]
 [ext_resource type="Texture2D" uid="uid://cro5adivtpep6" path="res://Sprites/RepeatingPatternt.png" id="3_dy7ct"]
 [ext_resource type="Texture2D" uid="uid://bbqpoiw2d8kgm" path="res://Buttons normal/options_button_normal.png" id="4_qe12f"]
@@ -55,10 +55,10 @@ texture_hover = ExtResource("5_8qtwp")
 
 [node name="Beenden" type="TextureButton" parent="Button_manager"]
 layout_mode = 0
-offset_left = 89.0
-offset_top = 101.0
-offset_right = 205.0
-offset_bottom = 133.0
+offset_left = 139.0
+offset_top = 103.0
+offset_right = 255.0
+offset_bottom = 135.0
 texture_normal = ExtResource("6_dy7ct")
 texture_hover = ExtResource("7_0o4t1")
 
