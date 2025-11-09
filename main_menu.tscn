@@ -47,10 +47,10 @@ texture_hover = ExtResource("5_dy7ct")
 
 [node name="Options" type="TextureButton" parent="Button_manager"]
 layout_mode = 0
-offset_left = 15.0
-offset_top = 66.0
-offset_right = 143.0
-offset_bottom = 98.0
+offset_left = 89.0
+offset_top = 65.0
+offset_right = 217.0
+offset_bottom = 97.0
 texture_normal = ExtResource("4_qe12f")
 texture_hover = ExtResource("5_8qtwp")
 
